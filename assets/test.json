@@ -1,0 +1,53 @@
+{
+    "count": 4628,
+    "page": 1,
+    "totalPages": 1543,
+    "nextPage": 2,
+    "previousPage": 0,
+    "showingFrom": 1,
+    "showingTo": 3,
+    "items": [
+        {
+            "id": 31973,
+            "tipo": "Release",
+            "titulo": "IPCA-15 foi de 1,20% em outubro",
+            "introducao": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi a 1,20% em outubro, 0,06 ponto percentual (p.p.) acima da taxa de setembro (1,14%). Foi a maior variação para um mês de outubro desde 1995 (1,34%) e a maior variação mensal desde fevereiro...",
+            "data_publicacao": "26/10/2021 09:00:00",
+            "produto_id": 9260,
+            "produtos": "9260|Índice Nacional de Preços ao Consumidor Amplo 15|indice-nacional-de-precos-ao-consumidor-amplo-15|2213",
+            "editorias": "economicas",
+            "imagens": "{\"image_intro\":\"images\\/agenciadenoticias\\/releases\\/IPCA15_Release.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/agenciadenoticias\\/releases\\/IPCA15_Release.png\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}",
+            "produtos_relacionados": "9260",
+            "destaque": true,
+            "link": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/31973-ipca-15-foi-de-1-20-em-outubro.html"
+        },
+        {
+            "id": 31974,
+            "tipo": "Notícia",
+            "titulo": "Prévia da inflação foi de 1,20% em outubro, maior para o mês desde 1995",
+            "introducao": "Passagens aéreas foram uma das maiores contribuições para o indicador do mês com alta de 34,35% - Foto: Licia Rubinstein/Agência IBGE Notícias O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), a prévia da inflação oficial, ficou em 1,20% em...",
+            "data_publicacao": "26/10/2021 09:00:00",
+            "produto_id": 9260,
+            "produtos": "9260|Índice Nacional de Preços ao Consumidor Amplo 15|indice-nacional-de-precos-ao-consumidor-amplo-15|2213",
+            "editorias": "economicas",
+            "imagens": "{\"image_intro\":\"images\\/agenciadenoticias\\/estatisticas_economicas\\/2021_10\\/IPCA15-thumb.jpg\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/agenciadenoticias\\/estatisticas_economicas\\/2021_10\\/IPCA15-home.jpg\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}",
+            "produtos_relacionados": "9260",
+            "destaque": true,
+            "link": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/31974-previa-da-inflacao-foi-de-1-20-em-outubro-maior-para-o-mes-desde-1995.html"
+        },
+        {
+            "id": 31949,
+            "tipo": "Release",
+            "titulo": "Demografia das Empresas e Empreendedorismo 2019: saldo entre empresas abertas e fechadas foi positivo após cinco anos",
+            "introducao": "Depois de mostrar cinco saldos negativos, de 2014 a 2018, a diferença entre o número de empresas entrantes e encerradas foi positiva em 2019, chegando a 290,9 mil. Parte deste saldo positivo pode estar relacionado ao fato de que, em 2019, a Demografia...",
+            "data_publicacao": "22/10/2021 10:00:00",
+            "produto_id": 22649,
+            "produtos": "22649|Demografia das Empresas e Estatísticas de Empreendedorismo|demografia-das-empresas-e-estatisticas-de-empreendedorismo|2930",
+            "editorias": "economicas",
+            "imagens": "{\"image_intro\":\"images\\/agenciadenoticias\\/releases\\/demografia_release.png\",\"float_intro\":\"\",\"image_intro_alt\":\"\",\"image_intro_caption\":\"\",\"image_fulltext\":\"images\\/agenciadenoticias\\/releases\\/demografia_release.png\",\"float_fulltext\":\"\",\"image_fulltext_alt\":\"\",\"image_fulltext_caption\":\"\"}",
+            "produtos_relacionados": "22649",
+            "destaque": true,
+            "link": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/31949-demografia-das-empresas-e-empreendedorismo-2019-saldo-entre-empresas-abertas-e-fechadas-foi-positivo-apos-cinco-anos.html"
+        }
+    ]
+}
