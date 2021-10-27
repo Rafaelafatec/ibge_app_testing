@@ -1,6 +1,6 @@
 # ibge_app_testing
 
-A new Flutter project.
+O aplicativo deverá exibir notícias recentes fornecidas pela API do IBGE
 
 ## Getting Started
 
