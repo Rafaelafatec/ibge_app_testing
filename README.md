@@ -1,16 +1,13 @@
 # ibge_app_testing
 
-O aplicativo deverá exibir notícias recentes fornecidas pela API do IBGE
+O aplicativo deverá exibir notícias recentes fornecidas pela API do IBGE e possivelmente permitir a seleção das notícias obtidas com base em alguns parâmetros.
 
-## Getting Started
+### Tela principal e a tela de notificações
+![Tela Principal](https://github.com/jrdavi/ibge_app_testing/blob/faf4a1324840e6898c1554cd0fb674fff982687a/qemu-system-i386_6xWx1Ub3aD.png)
+![Tela Notificações](https://github.com/jrdavi/ibge_app_testing/blob/faf4a1324840e6898c1554cd0fb674fff982687a/qemu-system-i386_EfleEnv5lR.png)
 
-This project is a starting point for a Flutter application.
+### Referências
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Cookbook: Parse JSON in the background](https://flutter.dev/docs/cookbook/networking/background-parsing)
+- [IBGE - API de serviço de dados](https://servicodados.ibge.gov.br/api/docs)
+- [API Notícias e documentação](https://servicodados.ibge.gov.br/api/docs/noticias)
